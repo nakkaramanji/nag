@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiUrl = 'http://localhost:8000/api';
+    const apiUrl = 'https://nag-scke.onrender.com/api';
 
     // Forms and Tables
     const categoryForm = document.getElementById('category-form');
